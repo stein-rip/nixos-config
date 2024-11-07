@@ -68,6 +68,8 @@ in
     };
   };
 
+  security.pam.enableSudoTouchIdAuth = true;
+
   # Fully declarative dock using the latest from Nix Store
   local = { 
     dock = {
