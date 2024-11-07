@@ -39,6 +39,8 @@ with pkgs; [
   noto-fonts
   noto-fonts-emoji
   meslo-lgs-nf
+  nerdfonts
+
 
   # Node.js development tools
   nodePackages.npm # globally install npm
