@@ -43,7 +43,7 @@ in
   #    "1password" = 1333542190;
   #    "wireguard" = 1451685025;
   #  };
-  #};
+  };
 
   # Enable home-manager
   home-manager = {
