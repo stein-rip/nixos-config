@@ -82,7 +82,7 @@ in
   #      { path = "/System/Applications/Photos.app/"; }
   #      { path = "/System/Applications/Photo Booth.app/"; }
   #      { path = "/System/Applications/TV.app/"; }
-  #      { path = "/System/Applications/Home.app/"; }
+         { path = "/System/Applications/Home.app/"; }
         {
           path = toString myEmacsLauncher;
           section = "others";

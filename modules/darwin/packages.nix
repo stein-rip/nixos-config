@@ -6,6 +6,6 @@ shared-packages ++ [
   dockutil
   spacebar
   shortcat
-  netsurf
+# netsurf
   
 ]
