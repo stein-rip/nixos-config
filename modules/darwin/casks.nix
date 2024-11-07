@@ -6,9 +6,7 @@ _:
   "visual-studio-code"
   "utm"
   "virtualbox"
-  "docker-machine-driver-vmware"
   "wine-stable"
-  "zenith"
 
   # Communication Tools
   "discord"
