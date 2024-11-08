@@ -6,6 +6,13 @@ shared-packages ++ [
   dockutil
   spacebar
   shortcat
-# netsurf
-  
+  # netsurf
+  starfetch
+  owofetch
+  uwufetch
+  octofetch
+  nix-universal-prefetch
+  ipfetch
+  ghfetch
+
 ]
