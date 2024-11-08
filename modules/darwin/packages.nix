@@ -8,7 +8,6 @@ shared-packages ++ [
   shortcat
   # netsurf
   starfetch
-  owofetch
   uwufetch
   octofetch
   ipfetch
