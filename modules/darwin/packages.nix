@@ -11,7 +11,6 @@ shared-packages ++ [
   owofetch
   uwufetch
   octofetch
-  nix-universal-prefetch
   ipfetch
   ghfetch
 
