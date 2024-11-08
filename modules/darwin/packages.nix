@@ -7,7 +7,7 @@ shared-packages ++ [
   spacebar
   shortcat
   # netsurf
-  starfeth
+  starfetch
   octofetch
   ipfetch
   ghfetch
